@@ -1,0 +1,11 @@
+Machine Learning Stuff
+
+So I've been messing around with machine learning lately. Basically you feed a computer a bunch of data and it figures out patterns on its own. Pretty wild when you think about it.
+
+There's supervised learning where you label everything like "this is a cat, this is a dog" and the model learns from that. Unsupervised is when you just throw data at it and let it find patterns. Reinforcement learning is like training a dog with treats - reward good behavior.
+
+Deep learning is the fancy stuff with neural networks. TensorFlow and PyTorch are what most people use. PyTorch feels more pythonic to me but TensorFlow has better production tools.
+
+The hardest part honestly isn't the algorithms - it's getting clean data. Garbage in, garbage out. You'll spend 80% of your time just cleaning and preparing data.
+
+Netflix recommendations, spam filters, self-driving cars - all machine learning under the hood.

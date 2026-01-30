@@ -1,0 +1,9 @@
+Data Structures and Algorithms
+
+If you want to get better at coding, you need to know data structures. Arrays, linked lists, stacks, queues, trees, graphs - these are the building blocks of pretty much every program out there.
+
+Algorithms are just ways to solve problems step by step. Some are fast, some are slow. Bubble sort is easy to understand but slow. Merge sort and quick sort are way faster for big lists.
+
+Most tech interviews at places like Google or Amazon will grill you on this stuff. They care less about what languages you know and more about how you think through problems.
+
+Best way to get good? Practice on LeetCode or HackerRank. Do a few problems every day. It sucks at first but gets easier.

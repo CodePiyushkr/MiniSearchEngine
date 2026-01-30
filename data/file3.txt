@@ -1,0 +1,13 @@
+Web Dev Notes
+
+Frontend is what users see - HTML for structure, CSS for styling, JavaScript for interactivity. React is everywhere right now. Vue is nice too, easier to learn imo. Angular is more enterprise-y.
+
+Backend is the server stuff. I use Node.js mostly because I already know JavaScript. Python with Django or Flask is solid too. Ruby on Rails people swear by it but seems less popular now.
+
+Databases - PostgreSQL for relational stuff, MongoDB if you want NoSQL. Just pick one and learn it well.
+
+APIs connect everything. REST is the standard, GraphQL is newer and lets frontend devs ask for exactly what they need.
+
+Mobile responsive design isn't optional anymore. Half your users are on phones.
+
+New frameworks pop up every week. Don't chase every shiny thing. Master the fundamentals first - they don't change much.

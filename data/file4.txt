@@ -1,0 +1,13 @@
+Cloud and DevOps
+
+Instead of buying servers, you rent them from AWS, Azure, or Google Cloud. Pay for what you use. Scale up when traffic spikes, scale down when it's quiet.
+
+AWS has the most services and biggest market share. Azure is popular if you're already in the Microsoft ecosystem. Google Cloud has great machine learning tools.
+
+DevOps is basically breaking down the wall between developers and operations. Write code, test it automatically, deploy it automatically. No more "works on my machine" excuses.
+
+Docker containers are a game changer. Package your app with all its dependencies. Runs the same everywhere - your laptop, test server, production.
+
+Kubernetes manages containers at scale. Steep learning curve but worth it for big deployments. Overkill for small projects though.
+
+CI/CD pipelines - code goes from your commit to production automatically. GitHub Actions, GitLab CI, Jenkins. Set it up once and forget about manual deployments.
