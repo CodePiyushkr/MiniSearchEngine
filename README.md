@@ -19,7 +19,8 @@ Build a search engine that:
 - Sorting algorithms
 - Filesystem operations (C++17)
 
-## 📁 Project Structure
+  
+ 📁 Project Structure
 
 ```
 MiniSearchEngine/
