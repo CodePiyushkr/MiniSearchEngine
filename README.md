@@ -18,7 +18,7 @@ Build a search engine that:
 - File handling with C++ streams
 - Sorting algorithms
 - Filesystem operations (C++17)
-- 
+
 
  📁 Project Structure
 
