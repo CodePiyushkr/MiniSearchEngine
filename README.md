@@ -20,6 +20,7 @@ Build a search engine that:
 - Filesystem operations (C++17)
 
  📁 Project Structure
+ 
 
 ```
 MiniSearchEngine/
